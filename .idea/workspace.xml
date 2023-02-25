@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373211a3-6f18-48e1-841a-2fc9a0c72c88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/preprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676387282761</updated>
-      <workItem from="1676387284404" duration="307000" />
+      <workItem from="1676387284404" duration="1310000" />
     </task>
     <servers />
   </component>
